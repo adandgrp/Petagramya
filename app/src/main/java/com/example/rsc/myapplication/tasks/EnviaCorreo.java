@@ -30,6 +30,7 @@ public class EnviaCorreo extends AsyncTask<Void,Void,Void> {
     private String message;
     private String name;
 
+
     //Progressdialog to show while sending email
     private ProgressDialog progressDialog;
 
