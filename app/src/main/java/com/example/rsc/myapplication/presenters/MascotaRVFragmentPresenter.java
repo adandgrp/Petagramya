@@ -38,7 +38,7 @@ public class MascotaRVFragmentPresenter implements IMascotaRVFragmentPresenter{
     public MascotaRVFragmentPresenter(IMascotaRVFragment iMascotaRVFragment, Context context) {
         this.iMascotaRVFragment = iMascotaRVFragment;
         this.context = context;
-        //obtenerMascotasBD();
+        obtenerMascotasBD();
 
         obtenerUsuariosAPI();
     }

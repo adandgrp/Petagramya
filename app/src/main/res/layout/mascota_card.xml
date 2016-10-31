@@ -17,7 +17,7 @@
         android:layout_width="match_parent"
         android:layout_height="@dimen/cardheight"
         android:scaleType="fitCenter" />
-        <!--android:src="@drawable/perro_01"-->
+        android:src="@drawable/perro_01"
 
 
     <RelativeLayout
